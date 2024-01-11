@@ -1,0 +1,33 @@
+/* style.css */
+
+/* Task 2: Style each color title */
+#red {
+  color: red;
+}
+
+#blue {
+  color: blue;
+}
+
+#orange {
+  color: orange;
+}
+
+#green {
+  color: green;
+}
+
+#yellow {
+  color: yellow;
+}
+
+/* Task 3: Change all color titles to have "font-weight: normal;" */
+.color-title {
+  font-weight: normal;
+}
+
+/* Task 4: Make all images 200px height and 200px width */
+img.color {
+  height: 200px;
+  width: 200px;
+}
